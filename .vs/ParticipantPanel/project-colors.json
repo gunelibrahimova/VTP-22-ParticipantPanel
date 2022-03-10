@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f31eb3f9-fa16-41ef-9e9a-3e991bd72d75": {
+      "ProjectGuid": "f31eb3f9-fa16-41ef-9e9a-3e991bd72d75",
+      "DisplayName": "ParticipantPanel",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "5c691981-0593-4786-bf8c-aeded563d350": {
+      "ProjectGuid": "5c691981-0593-4786-bf8c-aeded563d350",
+      "DisplayName": "DataAccess",
+      "ColorIndex": 1
+    },
+    "f92e43e0-4d7d-4fda-a865-2fea049d05a3": {
+      "ProjectGuid": "f92e43e0-4d7d-4fda-a865-2fea049d05a3",
+      "DisplayName": "Entities",
+      "ColorIndex": 2
+    },
+    "3cb46b9f-01c6-4ef6-82ac-6b01d9e3bd7f": {
+      "ProjectGuid": "3cb46b9f-01c6-4ef6-82ac-6b01d9e3bd7f",
+      "DisplayName": "Data",
+      "ColorIndex": 3
+    },
+    "dc81508c-8c4f-48c5-aa7c-fffce936e5aa": {
+      "ProjectGuid": "dc81508c-8c4f-48c5-aa7c-fffce936e5aa",
+      "DisplayName": "Services",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
